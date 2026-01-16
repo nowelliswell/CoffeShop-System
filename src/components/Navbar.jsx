@@ -1,7 +1,7 @@
 const Navbar = () => {
   return (
     <header>
-      <h1>Coffee Haven</h1>
+      <h1>☕ Coffee Haven</h1>
       <nav>
         <a href="#home">Home</a>
         <a href="#menu">Menu</a>
